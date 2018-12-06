@@ -1,1 +1,0 @@
-Tobias Pütz, Daniël de Kok, Sebastian Pütz and Erhard Hinrichs, Seq2Seq or Perceptrons for robust Lemmatization. An empirical examination, to appear in: Proceedings of the Seventeenth International Workshop on Treebanks and Linguistic Theories (TLT17)
