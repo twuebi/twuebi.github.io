@@ -85,33 +85,13 @@ author:
   bio              : "MA student in Computational Linguistics. Currently working at the SFB833 A3 at the University of Tübingen."
   location         : "Tübingen"
   employer         :
-  # googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : tobias.puetz at uni-tuebingen dot de
   # uri              :
   # bitbucket        :
   # codepen          :
-  # dribbble         :
-  # flickr           :
-  # facebook         :
-  # foursquare       :
   github           : "twuebi"
-  # google_plus      :
-  # keybase          :
-  # instagram        :
-  # lastfm           :
-  # linkedin         :
-  # orcid            : #"http://orcid.org/yourorcidurl"
-  # pinterest        :
-  # soundcloud       :
-  # stackoverflow    : # http://stackoverflow.com/users/123456/username
-  # steam            :
-  # tumblr           :
-  # twitter          : #"replacethistwitterhandle"
-  #  vine             :
-  # weibo            :
-  # xing             :
-  # youtube          :
-  # wikipedia        :
+  # stackoverflow    : 
+  # twitter          :
 
 
 # Reading Files
@@ -183,16 +163,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
