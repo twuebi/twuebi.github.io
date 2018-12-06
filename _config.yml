@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tobias Pütz"
   avatar           : "profile.png"
-  bio              : "Aspiring phd candidate in Computational Linguistics. Currently working at the [SFB 833 A3](https://www.google.com) at University of Tübingen."
+  bio              : "Aspiring phd candidate in Computational Linguistics. Currently working at the" [SFB 833 A3](https://www.google.com) "at the University of Tübingen."
   location         : "Tübingen"
   employer         :
   # googlescholar    : #"http://yourfullgooglescholarurl.com"
