@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+* Daniël de Kok, Neele Witte, and Tobias Pütz, sticker2: a neural syntax annotator for Dutch and German, accepted for CLARIN Annual Conference 2020
 * Tobias Pütz, Kevin Glocker, (Almost) feature-free Semantic Parsing,
   Proceedings of the Thirteenth Workshop on Semantic Evaluation (SemEval-2019),
   pages 113-118. <a href="https://twuebi.github.io/publications/sem_parsing_semeval_2019.pdf">PDF</a>
